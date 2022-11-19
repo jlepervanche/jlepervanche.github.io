@@ -4,7 +4,7 @@ nav {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: lightskyblue; 
+    background-color: ivory; 
 }
 h1 {
     color: grey;
@@ -26,7 +26,7 @@ table, th, td {
 }
 
 th {
-    background-color: tomato;
+    background-color: lightcoral;
 }
 
 .code { 
