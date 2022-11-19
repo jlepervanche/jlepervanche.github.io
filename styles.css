@@ -20,3 +20,8 @@ h2 {
     font-weight: bold; 
     color: grey;
 }
+
+.code { 
+    font-family: monospace; 
+    background-color: tomato;
+}
