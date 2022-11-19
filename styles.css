@@ -21,7 +21,7 @@ h2 {
     color: #333;
 }
 
-table {
+table, th, td {
     border: 1px dotted tomato;
 }
 
