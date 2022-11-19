@@ -25,6 +25,10 @@ table, th, td {
     border: 1px dotted tomato;
 }
 
+th {
+    background-color: tomato;
+}
+
 .code { 
     font-family: monospace; 
     background-color: tomato;
