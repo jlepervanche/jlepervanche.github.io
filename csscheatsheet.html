@@ -1,11 +1,39 @@
 <!DOCTYPE html>
 <html>
     <head>
-
+        <link rel="stylesheet" href="./styles.css" type="text/css">
     </head>
     <body>
         <h1>CSS Selectors and Specificity</h1>
         <h2>CSS Selectors</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Selector</th>
+                    <th>Syntax</th>
+                    <th>Description</th>
+                    <th>Example</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Universal</td>
+                    <td>
+                        <span class="code">* ns|* *|*</span>
+                    </td>
+                    <td>Selects all elements. Optionally, it may be restricted to a specific namespace or to all namespaces</td>
+                    <td>* will match all the elements of the document</td>
+                </tr>
+                <tr>
+                    <td>Type</td>
+                    <td>
+                        <span class="code">elementname</span>
+                    </td>
+                    <td>Selects all elements that have the given node name</td>
+                    <td>input will match any <input> element.</td>
+                </tr>
+            </tbody>
+        </table>
         <h2>CSS Specificity</h2> 
     </body>
 </html>
