@@ -16,27 +16,55 @@
             <thead>
                 <tr>
                     <th>Selector</th>
-                    <th>Syntax</th>
-                    <th>Description</th>
                     <th>Example</th>
+                    <th>Example Description</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td>Universal</td>
-                    <td>
-                        <span class="code">* ns|* *|*</span>
-                    </td>
-                    <td>Selects all elements. Optionally, it may be restricted to a specific namespace or to all namespaces</td>
-                    <td>* will match all the elements of the document</td>
+                    <td><span class="code">.class</span></td>
+                    <td>.intro</td>
+                    <td>Selects all elements with class="intro"</td>
                 </tr>
                 <tr>
-                    <td>Type</td>
-                    <td>
-                        <span class="code">elementname</span>
-                    </td>
-                    <td>Selects all elements that have the given node name</td>
-                    <td>input will match any &lt;input&gt; element.</td>
+                    <td><span class="code">.class1.class2</span></td>
+                    <td>.name1.name2</td>
+                    <td>Selects all elements with both name1 and name2 set within its class attribute</td>
+                </tr>
+                <tr>
+                    <td><span class="code">.class1 .class2</span></td>
+                    <td>.name1 .name2</td>
+                    <td>Selects all elements with name2 that is a descendant of an element with name1</td>
+                </tr>
+                <tr>
+                    <td><span class="code">#id</span></td>
+                    <td>#firstname</td>
+                    <td>Selects the element with id="firstname"</td>
+                </tr>
+                <tr>
+                    <td><span class="code">*</span></td>
+                    <td>*</td>
+                    <td>Selects all elements</td>
+                </tr>
+                <tr>
+                    <td><span class="code">element</span></td>
+                    <td>p</td>
+                    <td>Selects all &lt;p&gt; elements</td>
+                </tr>
+                <tr>
+                    <td><span class="code">element.class</span></td>
+                    <td>p.intro</td>
+                    <td>Selects all &lt;p&gt; elements with class="intro"</td>
+                </tr>
+                <tr>
+                    <td><span class="code">element,element</span></td>
+                    <td>div,p</td>
+                    <td>Selects all &lt;div&gt; elements and all &lt;p&gt; elements</td>
+                </tr>
+                <tr>
+                    <td><span class="code">[attribute]</span></td>
+                    <td>[target]</td>
+                    <td>Selects all elements with a target attribute</td>
                 </tr>
             </tbody>
         </table>
