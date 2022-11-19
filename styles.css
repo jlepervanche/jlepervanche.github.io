@@ -26,10 +26,10 @@ table, th, td {
 }
 
 th {
-    background-color: lightcoral;
+    background-color: lightblue;
 }
 
 .code { 
     font-family: monospace; 
-    color: tomato;
+    color: darkblue;
 }
