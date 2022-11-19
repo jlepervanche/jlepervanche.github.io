@@ -21,6 +21,10 @@ h2 {
     color: grey;
 }
 
+table, th, td {
+    border: 1px dotted tomato;
+}
+
 .code { 
     font-family: monospace; 
     background-color: tomato;
