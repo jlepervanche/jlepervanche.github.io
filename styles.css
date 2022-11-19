@@ -7,7 +7,7 @@ body {
     background-color: ivory; 
 }
 h1 {
-    color: grey;
+    color: #333;
     font-weight: bolder;
     display: block; 
     font-size: 3em; 
