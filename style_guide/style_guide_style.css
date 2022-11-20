@@ -53,7 +53,7 @@ p {
 
 .dark-blue { 
     background-color: #003;
-    color: #fff !important;  
+    color: #fff;  
 }
 
 .ocean-blue {
@@ -81,10 +81,11 @@ p {
     color: #fff; 
 }
 
-.color-hex {
+.color-hex p {
     font-family: 'Cutive', serif;
     font-size: 10px;
     font-weight: 400;
+    color: #fff; 
 }
 
 .font-panel {
