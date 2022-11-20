@@ -1,5 +1,17 @@
+/*
+Fonts 
+
+font-family: 'Cousine', monospace;
+font-family: 'Source Code Pro', monospace;
+font-family: 'Space Mono', monospace;
+*/
+
 body { 
+    font-family: 'Cousine', monospace;
     margin: 0 10%;
+}
+h1, h2 {
+    font-family: 'Space Mono', monospace;
 }
 .section {
     border: 1px solid #000000; 
@@ -47,4 +59,9 @@ body {
 .light-charcoal {
     background-color: #7c919a;
     color: #fff; 
+}
+
+.color-hex {
+    font-family: 'Source Code Pro', monospace;
+    font-style: italic;
 }
