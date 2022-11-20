@@ -5,7 +5,9 @@ font-family: 'Cousine', monospace;
 font-family: 'Source Code Pro', monospace;
 font-family: 'Space Mono', monospace;
 */
-
+nav { 
+    font-size: small;
+}
 body { 
     font-family: 'Cousine', monospace;
     margin: 0 10%;
