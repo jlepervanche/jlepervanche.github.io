@@ -81,6 +81,10 @@ p {
     color: #fff; 
 }
 
+.color-label {
+    color: #fff;
+}
+
 .color-hex {
     font-family: 'Cousine', monospace;
     font-size: 10px;
