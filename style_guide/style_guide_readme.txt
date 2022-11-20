@@ -63,3 +63,15 @@ If you’d like to extend your site, consider:
 - Adding additional components (you could document the various buttons that you’d like to use).
 - Learning how and then implementing a responsive design so that your site looks great on all screen sizes.
 - Adding navigation and splitting up your site so that each section has its own HTML page.
+
+----------------------
+
+Sections 
+- Colors 
+- Fonts 
+- Text Styles 
+- Buttons 
+
+Additional 
+- Responsive design 
+- Add navigation splitting the site so each section has its own HTML page 
