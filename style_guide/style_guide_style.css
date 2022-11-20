@@ -92,6 +92,13 @@ p {
     color: #fff; 
 }
 
+.code {
+    font-family: 'Cousine', monospace;
+    font-size: 12px;
+    font-weight: 400;
+    color: #333; 
+}
+
 .font-panel {
     width: 45%;
     display: inline-block;
