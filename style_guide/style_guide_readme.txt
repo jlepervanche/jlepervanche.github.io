@@ -56,7 +56,7 @@ If you’d like some inspiration, you can look to the following samples:
 - Google’s Material Design
 - Twitter’s Bootstrap.
 
-Addtional 
+Additional 
 
 If you’d like to extend your site, consider:
 
@@ -83,7 +83,3 @@ Sections
 -- h2: subheading: Arial, Pale Blue #06f, Weight: 500, Size: 18px 
 -- p: paragraph text: Cutive, Dark Charcoal #333, Weight: 400, Size: 14px 
 -- code: code snippets: Cousine, Dark Charcoal #333, Weight: 400; Size: 12px 
-
-Additional 
-- Responsive design 
-- Add navigation splitting the site so each section has its own HTML page 
