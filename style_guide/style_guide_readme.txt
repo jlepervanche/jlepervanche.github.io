@@ -82,7 +82,7 @@ Sections
 -- h1: main page heading: Arial, Ocean Blue #03f, Weight: 700, Size: 26px 
 -- h2: subheading: Arial, Pale Blue #06f, Weight: 500, Size: 18px 
 -- p: paragraph text: Cutive, Dark Charcoal #333, Weight: 400, Size: 14px 
--- code: code snippets: Cousine, Dark Charcoal #333, Weight: 400; Size: 10px 
+-- code: code snippets: Cousine, Dark Charcoal #333, Weight: 400; Size: 12px 
 - Buttons 
 
 Additional 
