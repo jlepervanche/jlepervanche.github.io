@@ -81,7 +81,7 @@ p {
     color: #fff; 
 }
 
-.color-hex p {
+.color-hex {
     font-family: 'Cousine', monospace;
     font-size: 10px;
     font-weight: 400;
