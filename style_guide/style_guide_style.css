@@ -82,7 +82,7 @@ p {
 }
 
 .color-hex p {
-    font-family: 'Cutive', serif;
+    font-family: 'Cousine', monospace;
     font-size: 10px;
     font-weight: 400;
     color: #fff; 
@@ -114,9 +114,9 @@ p {
 }
 
 .cousine {
-    font-family: 'Cousine', monospace;
+    font-family: 'Cutive', serif;
 }
 
 .cutive {
-    font-family: 'Cutive', serif; 
+    font-family: 'Cousine', monospace; 
 }
