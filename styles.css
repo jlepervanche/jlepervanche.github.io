@@ -1,0 +1,35 @@
+nav { 
+    display: block; 
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: ivory; 
+}
+h1 {
+    color: #333;
+    font-weight: bolder;
+    display: block; 
+    font-size: 3em; 
+    margin: 20px 0px; 
+}
+h2 {
+    display: block; 
+    font-size: 2em; 
+    margin: 20px 0px; 
+    font-weight: bold; 
+    color: #333;
+}
+
+table, th, td {
+    border: 1px solid darkblue;
+}
+
+th {
+    background-color: lightblue;
+}
+
+.code { 
+    font-family: monospace; 
+    color: darkblue;
+}
