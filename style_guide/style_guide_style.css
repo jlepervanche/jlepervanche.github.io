@@ -23,7 +23,7 @@ h1, h2 {
     color: #00f; 
 }
 .section {
-    border: 1px solid #333; 
+    border: 5px solid #333; 
     padding: 10px; 
     margin: 10px auto; 
 }
@@ -71,6 +71,6 @@ h1, h2 {
 }
 
 .color-hex {
-    font-family: 'Source Code Pro', monospace;
+    font-family: 'Fira Code', monospace;
     font-style: italic;
 }
