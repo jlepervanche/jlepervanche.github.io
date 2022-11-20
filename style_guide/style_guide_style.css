@@ -53,7 +53,7 @@ p {
 
 .dark-blue { 
     background-color: #003;
-    color: #fff; 
+    color: #fff !important;  
 }
 
 .ocean-blue {
