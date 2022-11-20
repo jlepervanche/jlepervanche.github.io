@@ -8,6 +8,10 @@ body {
 }
 
 .color-section {
+    width: 100%;
+}
+
+.color-panel {
     display: inline-block; 
     width: 32%;
     text-align: center;
@@ -15,14 +19,22 @@ body {
     min-height: 100px; 
 }
 
-.color-panel { 
-
+.dark-blue { 
+    background-color: #00f;
+    color: #fff; 
 }
 
-.color-label {
-
+.ocean-blue {
+    background-color: #03f;
+    color: #fff; 
 }
 
-.color-hex { 
+.pale-blue {
+    background-color: #06f;
+    color: #fff; 
+}
 
+.sky-blue {
+    background-color: #09f;
+    color: #fff; 
 }
