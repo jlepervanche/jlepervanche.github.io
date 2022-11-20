@@ -75,6 +75,9 @@ Sections
 -- 5 #333 
 -- 6 #36454f 
 - Fonts 
+-- Headers: Arial 
+-- Body: Cousine 
+-- Code, special: Cutive Mono
 - Text Styles 
 - Buttons 
 
