@@ -10,8 +10,7 @@ font-family: 'Fira Code', monospace;
 nav { 
     font-size: small;
     display: inline-block;
-    margin: 20px; 
-    padding: 20px;
+    margin-top: 5px; 
 }
 body { 
     font-family: 'Cousine', monospace;
