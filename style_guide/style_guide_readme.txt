@@ -72,6 +72,8 @@ Sections
 -- 2 #03f
 -- 3 #06f 
 -- 4 #09f 
+-- 5 #333 
+-- 6 #36454f 
 - Fonts 
 - Text Styles 
 - Buttons 
