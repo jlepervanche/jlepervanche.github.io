@@ -1,3 +1,6 @@
+body { 
+    margin: 0 10%;
+}
 .section {
     border: 1px solid #000000; 
     padding: 10px; 
