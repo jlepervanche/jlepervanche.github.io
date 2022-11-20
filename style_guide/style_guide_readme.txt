@@ -68,6 +68,10 @@ If you’d like to extend your site, consider:
 
 Sections 
 - Colors 
+-- 1 #00f
+-- 2 #03f
+-- 3 #06f 
+-- 4 #09f 
 - Fonts 
 - Text Styles 
 - Buttons 
