@@ -92,7 +92,7 @@ p {
     color: #fff; 
 }
 
-p .code {
+.code {
     font-family: 'Cousine', monospace;
     font-size: 12px;
     font-weight: 400;
