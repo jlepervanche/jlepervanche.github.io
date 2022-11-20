@@ -76,3 +76,13 @@ h2 {
 .color-hex {
     font-family: 'Cutive Mono', monospace;
 }
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+  
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
