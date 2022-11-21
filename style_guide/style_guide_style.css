@@ -44,7 +44,7 @@ p {
 }
 
 .color-panel {
-    display: inline-flex; 
+    display: flexbox; 
     width: 32%;
     text-align: center;
     margin: 20px auto; 
@@ -101,7 +101,7 @@ p {
 
 .font-panel {
     width: 45%;
-    display: inline-block;
+    display: flexbox;
 }
   
 .font-label {
@@ -134,5 +134,5 @@ p {
 
 .text-panel {
     width: 45%; 
-    display: inline-block;  
+    display: flexbox;  
 }
