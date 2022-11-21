@@ -44,7 +44,7 @@ p {
 }
 
 .color-panel {
-    display: inline-flexbox; 
+    display: inline-flex; 
     width: 32%;
     text-align: center;
     margin: 20px auto; 
@@ -101,7 +101,7 @@ p {
 
 .font-panel {
     width: 45%;
-    display: inline-block;
+    display: inline-flex;
 }
   
 .font-label {
@@ -130,4 +130,9 @@ p {
 
 .cousine {
     font-family: 'Cousine', monospace; 
+}
+
+.text-panel {
+    width: 45%; 
+    display: inline-flex; 
 }
