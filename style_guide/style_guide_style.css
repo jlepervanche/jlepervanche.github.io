@@ -7,7 +7,7 @@ font-family: 'Cutive', serif;
 
 nav { 
     font-size: small;
-    display: inline-block;
+    display: inline;
     margin-top: 5px; 
 }
 body { 
@@ -101,7 +101,7 @@ p {
 
 .font-panel {
     width: 45%;
-    display: flexbox;
+    display: block;
 }
   
 .font-label {
@@ -134,5 +134,5 @@ p {
 
 .text-panel {
     width: 45%; 
-    display: flexbox;  
+    display: block;  
 }
