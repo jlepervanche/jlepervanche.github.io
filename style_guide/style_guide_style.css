@@ -100,7 +100,7 @@ p {
 }
 
 .font-panel {
-    width: 45%;
+    width:fit-content; 
     display: block;
 }
   
@@ -133,6 +133,6 @@ p {
 }
 
 .text-panel {
-    width: 45%; 
+    width: fit-content;  
     display: block;  
 }
