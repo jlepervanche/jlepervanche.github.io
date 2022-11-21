@@ -44,8 +44,7 @@ p {
 }
 
 .color-panel {
-    display: inline-flexbox;
-    justify-content: space-around;  
+    display: inline-block; 
     width: 32%;
     text-align: center;
     margin: 20px auto; 
