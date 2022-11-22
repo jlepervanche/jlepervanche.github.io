@@ -2,8 +2,12 @@ nav {
     padding: 60px;
     text-align: right;
     background: #1abc9c;
-    color: white;
-    font-size: 30px;
+    color: seashell;
+    font-size: 22px;
+    background-color: black;
+    opacity: 0.9; 
+    display: block; 
+    height: 69px; 
 }
 
 a { 
