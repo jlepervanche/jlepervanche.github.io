@@ -1,13 +1,13 @@
+header {
+    display: flex; 
+    border-bottom: 1px solid seashell;
+    height: 69px;
+    justify-content: space-between;
+    align-items: center;
+}
+
 nav {
-    padding: 60px;
-    text-align: right;
-    background: #1abc9c;
-    color: seashell;
-    font-size: 22px;
-    background-color: black;
-    opacity: 0.9; 
-    display: block; 
-    height: 69px; 
+
 }
 
 a { 
