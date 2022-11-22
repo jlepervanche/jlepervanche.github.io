@@ -8,3 +8,4 @@ We will provide a design spec and image assets to help you along the way. A desi
 
 This project assumes that you will be able to reproduce the basic HTML and CSS with little guidance.
 
+... 
