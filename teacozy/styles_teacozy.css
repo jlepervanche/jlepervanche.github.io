@@ -46,3 +46,19 @@ body {
     text-decoration: underline;
     color: seashell; 
 }
+
+.mission-container { 
+    background-image: url("/teacozy/resources/img-mission-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px; 
+    max-width: 1200px; 
+    margin: 40px auto 40px auto; 
+    display: flex;
+}
+
+.text-over {
+    margin: auto; 
+    background-color: black;
+    width: 100%; 
+}
