@@ -29,7 +29,7 @@ html {
     max-width: 100%;
   }
   
-  @media only screen and (max-width: 760px) {
+  @media only screen and (max-width: 895px) {
     .main-content {
       top: 2.5625rem;
     }
