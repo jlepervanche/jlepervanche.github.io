@@ -69,6 +69,13 @@ html {
     font-size: 1rem;
     color: #4a4a4a;
   }
+
+  nav .button {
+    padding: .1875rem .5rem; 
+    background-color: #9dc20b;
+    line-height: 1.6;
+    color: white; 
+  }
   
   header .icon {
     width: 1rem;
