@@ -29,7 +29,7 @@ html {
     max-width: 100%;
   }
   
-  @media only screen and (max-width: 895px) {
+  @media only screen and (max-width: 760px) {
     .main-content {
       top: 2.5625rem;
     }
@@ -90,7 +90,7 @@ html {
     display: none;
   }
   
-  @media only screen and (max-width: 895px) {
+  @media only screen and (max-width: 760px) {
     nav li:last-child {
         display:block;
     }
@@ -191,7 +191,7 @@ html {
     padding: 1.25rem 7.25rem;
   }
   
-  @media only screen and (max-width: 895px) {
+  @media only screen and (max-width: 760px) {
     #sign-up-section {
       align-items: center;
       justify-content: center;
@@ -277,7 +277,7 @@ html {
     color: #4a4a4a;
   }
   
-  @media only screen and (max-width: 895px) {
+  @media only screen and (max-width: 760px) {
     #features-section {
         padding: 1rem; 
     }
@@ -401,7 +401,7 @@ html {
     height: 1.875rem;
   }
   
-  @media only screen and (max-width: 895px) {
+  @media only screen and (max-width: 760px) {
     #quotes-section .content {
         padding: 3rrem 1.5rem;
     }
