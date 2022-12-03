@@ -77,6 +77,10 @@ html {
     color: white; 
   }
   
+  nav li:last-child {
+    display: none; 
+  }
+
   header .icon {
     width: 1rem;
     padding-left: .75rem;
