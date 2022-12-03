@@ -90,7 +90,17 @@ html {
     display: none;
   }
   
-  @media only screen and (max-width: 760px) {
+  @media only screen and (max-width: 895px) {
+    nav li:last-child {
+        display:block;
+    }
+
+    header .content {
+        padding: 1rem 1rem;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
     header .desktop {
       display: none;
     }
@@ -114,13 +124,14 @@ html {
     header .mobile li {
       padding: 0;
     }
-  
+  /*
     header .mobile .button {
       padding: .1875rem .5rem;
       background-color: #9dc20b;
       line-height: 1.6;
       color: white;
     }
+    */
   }
   
   /* Sign Up Section */
