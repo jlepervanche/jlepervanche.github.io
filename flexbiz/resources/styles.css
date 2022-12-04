@@ -54,6 +54,10 @@ header, .mission {
 .mission {
     height: 300px;
     background-image: url("./images/flex_background.jpeg");
+    background-color: #7C919A;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     padding-top: 35px;
 }
 
