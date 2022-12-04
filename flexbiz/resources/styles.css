@@ -69,3 +69,9 @@ header, .mission {
     background-color: white;
     text-align: center;
 }
+
+#products-container {
+    min-height: 500px;
+    margin: auto; 
+    padding-top: 70px; 
+}
