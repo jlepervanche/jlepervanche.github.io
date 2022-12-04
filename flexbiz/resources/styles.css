@@ -64,6 +64,7 @@ header, .mission {
 
 .mission .content {
     display: flex; 
+    flex-grow: ;
     margin: auto; 
     width: 100%;
     background-color: white;
@@ -107,7 +108,7 @@ header, .mission {
     padding-top: 70px; 
 }
 
-.teammate {
+.team {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
