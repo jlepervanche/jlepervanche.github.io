@@ -75,3 +75,28 @@ header, .mission {
     margin: auto; 
     padding-top: 70px; 
 }
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.product {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+
+.product img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    padding: 10px;
+    height: auto;
+}
+
+.product p { 
+    text-align: center;
+}
