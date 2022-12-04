@@ -63,6 +63,7 @@ header, .mission {
 }
 
 .mission .content {
+    display: flex; 
     margin: auto; 
     width: 100%;
     background-color: white;
