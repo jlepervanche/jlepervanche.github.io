@@ -45,8 +45,9 @@ body, h1, h2, p {
     padding: 10px;
 }
 
-header {
+header, .mission {
     display: flex; 
     flex-direction: column;
     align-items: center;
 }
+
