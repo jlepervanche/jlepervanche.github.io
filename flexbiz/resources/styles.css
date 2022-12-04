@@ -1,1 +1,140 @@
 /* flexbiz style sheet */ 
+
+/* Font-family 
+
+font-family: 'Cousine', monospace;
+font-family: 'Cutive', serif;
+
+*/ 
+
+nav { 
+    font-size: small;
+    display: inline;
+    margin-top: 5px; 
+}
+body { 
+    font-family: 'Cousine', monospace;
+    margin: 0 10%;
+    color: #333; 
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #03f; 
+    font-weight: 700;
+    font-size: 26px;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #06f; 
+    font-weight: 500;
+    font-size: 18px;
+}
+p {
+    font-family: 'Cousine', monospace;
+    color: #333; 
+    font-weight: 400;
+    font-size: 14px;
+}
+.section {
+    border: 2px solid #333; 
+    padding: 10px; 
+    margin: 10px auto; 
+}
+
+.color-section {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block; 
+    width: 32%;
+    text-align: center;
+    margin: 20px auto; 
+    min-height: 100px; 
+}
+
+.dark-blue { 
+    background-color: #003;
+    color: #fff;  
+}
+
+.ocean-blue {
+    background-color: #03f;
+    color: #fff; 
+}
+
+.pale-blue {
+    background-color: #06f;
+    color: #fff; 
+}
+
+.sky-blue {
+    background-color: #09f;
+    color: #fff; 
+}
+
+.dark-charcoal {
+    background-color: #333;
+    color: #fff;
+}
+
+.light-charcoal {
+    background-color: #7c919a;
+    color: #fff; 
+}
+
+.color-label {
+    color: #fff;
+}
+
+.color-hex {
+    font-family: 'Cousine', monospace;
+    font-size: 12px;
+    font-weight: 400;
+    color: #fff; 
+}
+
+.code {
+    font-family: 'Cousine', monospace;
+    font-size: 12px;
+    font-weight: 400;
+    color: #333; 
+}
+
+.font-panel {
+    width:fit-content; 
+    display: block;
+}
+  
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cutive {
+    font-family: 'Cutive', serif;
+}
+
+.cousine {
+    font-family: 'Cousine', monospace; 
+}
+
+.text-panel {
+    width: fit-content;  
+    display: block;  
+}
