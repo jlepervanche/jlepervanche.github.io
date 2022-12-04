@@ -64,5 +64,6 @@ header, .mission {
 .mission .content {
     margin: auto; 
     width: 100%;
+    background-color: white;
     text-align: center;
 }
