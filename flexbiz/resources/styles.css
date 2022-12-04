@@ -107,14 +107,14 @@ header, .mission {
     padding-top: 70px; 
 }
 
-.team {
+.teammate {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
 }
 
-.team img {
+.teammate img {
     margin-left: auto;
     margin-right: auto;
     width: 200px;
