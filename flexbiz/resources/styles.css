@@ -100,3 +100,28 @@ header, .mission {
 .product p { 
     text-align: center;
 }
+
+#team-container {
+    min-height: 500px;
+    margin: auto; 
+    padding-top: 70px; 
+}
+
+.team {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.team img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    padding: 10px;
+    height: auto;
+}
+
+footer {
+    padding-top: 20px;
+}
