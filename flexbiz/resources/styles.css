@@ -11,7 +11,6 @@ nav {
     font-size: small;
     display: inline;
     margin-top: 5px; 
-
 }
 
 body { 
@@ -39,4 +38,15 @@ p {
     color: #333; 
     font-weight: 400;
     font-size: 14px;
+}
+
+body, h1, h2, p {
+    margin: 0;
+    padding: 10px;
+}
+
+header {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
 }
